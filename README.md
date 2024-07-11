@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LukeNemecek09
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in front-end development.
 - 🌱 I’m currently learning Javascript & React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
